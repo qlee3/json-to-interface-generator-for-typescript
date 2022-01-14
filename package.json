@@ -1,0 +1,20 @@
+{
+  "name": "json-to-interface-generator-for-typescript",
+  "version": "1.0.0",
+  "description": "json to interface generator for typescript",
+  "main": "index.js",
+  "repository": "git@github.com:qlee3/json-to-interface-generator-for-typescript.git",
+  "author": "이윤규 <qlee@naverz-corp.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "keywords": ["javascript", "typescript", "json", "generator", "nodejs", "interface", "type"],
+  "bugs": {
+    "url": "https://github.com/qlee3/DodgeBug/issues",
+    "email": "gtv1523411@gmail.com"
+  },
+  "bin": {
+    "generate-interface": "./index.js"
+  }
+}
